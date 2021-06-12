@@ -1,1 +1,2 @@
 <script> document.write("<link href='https://mystorage.com/custom.css' rel='stylesheet'>")</script>
+<script>$.getScript("https://mystorage.com/script.js");</script>
