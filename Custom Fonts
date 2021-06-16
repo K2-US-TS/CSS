@@ -1,0 +1,3 @@
+<style>@font-face { font-family: "FontName-regular"; src: url("https://location/font.woff2")}</style>
+
+label.input-label { display: block!important; color: #000000; font-size: 14px; font-family: FontName-regular,sans-serif;
